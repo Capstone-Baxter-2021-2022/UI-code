@@ -1,0 +1,5 @@
+C:\Users\Alex\source\repos\eztest\Debug\eztest.vcxproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\eztest\Debug\eztest.dash.resources
+C:\Users\Alex\source\repos\eztest\Debug\eztest.vcxproj.GenerateResource.cache
+C:\Users\Alex\source\repos\eztest\Debug\eztest.exe
+C:\Users\Alex\source\repos\eztest\Debug\eztest.test1.resources
